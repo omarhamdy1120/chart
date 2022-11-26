@@ -1,0 +1,13 @@
+body{
+  background:url(gold-of-egypt-logo-pattern-opacity-30.png) #FEFCF3 no-repeat 40%;
+  color: white;
+}
+.input-group{
+  width: 25%; 
+  padding:5px;
+}
+#canvasWrapper{
+  position: relative;
+  min-height: 50vh ;
+  color:white;
+}

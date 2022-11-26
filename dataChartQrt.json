@@ -1,0 +1,110 @@
+[{"SellQrt":"325","MonthYear":"2016 March","thisYear":"2016","thisQUARTER2":"1","thisQUARTER":"2016 - Qrt:1","minRate":"289","BuyQrt":"327","WorldPriceQrt":"1275","Date":"2016-01"},
+{"SellQrt":"325","MonthYear":"2016 March","thisYear":"2016","thisQUARTER2":"1","thisQUARTER":"2016 - Qrt:1","minRate":"289","BuyQrt":"327","WorldPriceQrt":"1275","Date":"2016-02"},
+{"SellQrt":"325","MonthYear":"2016 March","thisYear":"2016","thisQUARTER2":"1","thisQUARTER":"2016 - Qrt:1","minRate":"289","BuyQrt":"327","WorldPriceQrt":"1275","Date":"2016-03"},
+
+{"SellQrt":"394","MonthYear":"2016 June","thisYear":"2016","thisQUARTER2":"2","thisQUARTER":"2016 - Qrt:2","minRate":"268","BuyQrt":"405","WorldPriceQrt":"1330","Date":"2016-04"},
+{"SellQrt":"394","MonthYear":"2016 June","thisYear":"2016","thisQUARTER2":"2","thisQUARTER":"2016 - Qrt:2","minRate":"268","BuyQrt":"405","WorldPriceQrt":"1330","Date":"2016-05"},
+{"SellQrt":"394","MonthYear":"2016 June","thisYear":"2016","thisQUARTER2":"2","thisQUARTER":"2016 - Qrt:2","minRate":"268","BuyQrt":"405","WorldPriceQrt":"1330","Date":"2016-06"},
+
+{"SellQrt":"484","MonthYear":"2016 September","thisYear":"2016","thisQUARTER2":"3","thisQUARTER":"2016 - Qrt:3","minRate":"400","BuyQrt":"488","WorldPriceQrt":"1375","Date":"2016-07"},
+{"SellQrt":"484","MonthYear":"2016 September","thisYear":"2016","thisQUARTER2":"3","thisQUARTER":"2016 - Qrt:3","minRate":"400","BuyQrt":"488","WorldPriceQrt":"1375","Date":"2016-08"},
+{"SellQrt":"484","MonthYear":"2016 September","thisYear":"2016","thisQUARTER2":"3","thisQUARTER":"2016 - Qrt:3","minRate":"400","BuyQrt":"488","WorldPriceQrt":"1375","Date":"2016-09"},
+
+{"SellQrt":"628","MonthYear":"2016 December","thisYear":"2016","thisQUARTER2":"4","thisQUARTER":"2016 - Qrt:4","minRate":"486","BuyQrt":"650","WorldPriceQrt":"1316","Date":"2016-10"},
+{"SellQrt":"628","MonthYear":"2016 December","thisYear":"2016","thisQUARTER2":"4","thisQUARTER":"2016 - Qrt:4","minRate":"486","BuyQrt":"650","WorldPriceQrt":"1316","Date":"2016-11"},
+{"SellQrt":"628","MonthYear":"2016 December","thisYear":"2016","thisQUARTER2":"4","thisQUARTER":"2016 - Qrt:4","minRate":"486","BuyQrt":"650","WorldPriceQrt":"1316","Date":"2016-12"},
+
+{"SellQrt":"628","MonthYear":"2017 March","thisYear":"2017","thisQUARTER2":"1","thisQUARTER":"2017 - Qrt:1","minRate":"548","BuyQrt":"640","WorldPriceQrt":"1263","Date":"2017-01"},
+{"SellQrt":"628","MonthYear":"2017 March","thisYear":"2017","thisQUARTER2":"1","thisQUARTER":"2017 - Qrt:1","minRate":"548","BuyQrt":"640","WorldPriceQrt":"1263","Date":"2017-02"},
+{"SellQrt":"628","MonthYear":"2017 March","thisYear":"2017","thisQUARTER2":"1","thisQUARTER":"2017 - Qrt:1","minRate":"548","BuyQrt":"640","WorldPriceQrt":"1263","Date":"2017-03"},
+
+{"SellQrt":"637","MonthYear":"2017 June","thisYear":"2017","thisQUARTER2":"2","thisQUARTER":"2017 - Qrt:2","minRate":"612","BuyQrt":"650","WorldPriceQrt":"1294","Date":"2017-04"},
+{"SellQrt":"637","MonthYear":"2017 June","thisYear":"2017","thisQUARTER2":"2","thisQUARTER":"2017 - Qrt:2","minRate":"612","BuyQrt":"650","WorldPriceQrt":"1294","Date":"2017-05"},
+{"SellQrt":"637","MonthYear":"2017 June","thisYear":"2017","thisQUARTER2":"2","thisQUARTER":"2017 - Qrt:2","minRate":"612","BuyQrt":"650","WorldPriceQrt":"1294","Date":"2017-06"},
+
+{"SellQrt":"626.5","MonthYear":"2017 September","thisYear":"2017","thisQUARTER2":"3","thisQUARTER":"2017 - Qrt:3","minRate":"609","BuyQrt":"661","WorldPriceQrt":"1355","Date":"2017-07"},
+{"SellQrt":"626.5","MonthYear":"2017 September","thisYear":"2017","thisQUARTER2":"3","thisQUARTER":"2017 - Qrt:3","minRate":"609","BuyQrt":"661","WorldPriceQrt":"1355","Date":"2017-08"},
+{"SellQrt":"626.5","MonthYear":"2017 September","thisYear":"2017","thisQUARTER2":"3","thisQUARTER":"2017 - Qrt:3","minRate":"609","BuyQrt":"661","WorldPriceQrt":"1355","Date":"2017-09"},
+
+{"SellQrt":"636","MonthYear":"2017 December","thisYear":"2017","thisQUARTER2":"4","thisQUARTER":"2017 - Qrt:4","minRate":"613","BuyQrt":"641","WorldPriceQrt":"1306","Date":"2017-10"},
+{"SellQrt":"636","MonthYear":"2017 December","thisYear":"2017","thisQUARTER2":"4","thisQUARTER":"2017 - Qrt:4","minRate":"613","BuyQrt":"641","WorldPriceQrt":"1306","Date":"2017-11"},
+{"SellQrt":"636","MonthYear":"2017 December","thisYear":"2017","thisQUARTER2":"4","thisQUARTER":"2017 - Qrt:4","minRate":"613","BuyQrt":"641","WorldPriceQrt":"1306","Date":"2017-12"},
+
+{"SellQrt":"650","MonthYear":"2018 March","thisYear":"2018","thisQUARTER2":"1","thisQUARTER":"2018 - Qrt:1","minRate":"446.5","BuyQrt":"667.5","WorldPriceQrt":"1363","Date":"2018-01"},
+{"SellQrt":"650","MonthYear":"2018 March","thisYear":"2018","thisQUARTER2":"1","thisQUARTER":"2018 - Qrt:1","minRate":"446.5","BuyQrt":"667.5","WorldPriceQrt":"1363","Date":"2018-02"},
+{"SellQrt":"650","MonthYear":"2018 March","thisYear":"2018","thisQUARTER2":"1","thisQUARTER":"2018 - Qrt:1","minRate":"446.5","BuyQrt":"667.5","WorldPriceQrt":"1363","Date":"2018-03"},
+
+{"SellQrt":"628.5","MonthYear":"2018 June","thisYear":"2018","thisQUARTER2":"2","thisQUARTER":"2018 - Qrt:2","minRate":"629","BuyQrt":"667.5","WorldPriceQrt":"1365","Date":"2018-04"},
+{"SellQrt":"628.5","MonthYear":"2018 June","thisYear":"2018","thisQUARTER2":"2","thisQUARTER":"2018 - Qrt:2","minRate":"629","BuyQrt":"667.5","WorldPriceQrt":"1365","Date":"2018-05"},
+{"SellQrt":"628.5","MonthYear":"2018 June","thisYear":"2018","thisQUARTER2":"2","thisQUARTER":"2018 - Qrt:2","minRate":"629","BuyQrt":"667.5","WorldPriceQrt":"1365","Date":"2018-06"},
+
+{"SellQrt":"595","MonthYear":"2018 September","thisYear":"2018","thisQUARTER2":"3","thisQUARTER":"2018 - Qrt:3","minRate":"592","BuyQrt":"635","WorldPriceQrt":"1265","Date":"2018-07"},
+{"SellQrt":"595","MonthYear":"2018 September","thisYear":"2018","thisQUARTER2":"3","thisQUARTER":"2018 - Qrt:3","minRate":"592","BuyQrt":"635","WorldPriceQrt":"1265","Date":"2018-08"},
+{"SellQrt":"595","MonthYear":"2018 September","thisYear":"2018","thisQUARTER2":"3","thisQUARTER":"2018 - Qrt:3","minRate":"592","BuyQrt":"635","WorldPriceQrt":"1265","Date":"2018-09"},
+
+{"SellQrt":"639.5","MonthYear":"2018 December","thisYear":"2018","thisQUARTER2":"4","thisQUARTER":"2018 - Qrt:4","minRate":"592.5","BuyQrt":"642","WorldPriceQrt":"1284","Date":"2018-10"},
+{"SellQrt":"639.5","MonthYear":"2018 December","thisYear":"2018","thisQUARTER2":"4","thisQUARTER":"2018 - Qrt:4","minRate":"592.5","BuyQrt":"642","WorldPriceQrt":"1284","Date":"2018-11"},
+{"SellQrt":"639.5","MonthYear":"2018 December","thisYear":"2018","thisQUARTER2":"4","thisQUARTER":"2018 - Qrt:4","minRate":"592.5","BuyQrt":"642","WorldPriceQrt":"1284","Date":"2018-12"},
+
+{"SellQrt":"627","MonthYear":"2019 March","thisYear":"2019","thisQUARTER2":"1","thisQUARTER":"2019 - Qrt:1","minRate":"624.5","BuyQrt":"658.5","WorldPriceQrt":"1346","Date":"2019-01"},
+{"SellQrt":"627","MonthYear":"2019 March","thisYear":"2019","thisQUARTER2":"1","thisQUARTER":"2019 - Qrt:1","minRate":"624.5","BuyQrt":"658.5","WorldPriceQrt":"1346","Date":"2019-02"},
+{"SellQrt":"627","MonthYear":"2019 March","thisYear":"2019","thisQUARTER2":"1","thisQUARTER":"2019 - Qrt:1","minRate":"624.5","BuyQrt":"658.5","WorldPriceQrt":"1346","Date":"2019-03"},
+
+{"SellQrt":"603","MonthYear":"2019 May","thisYear":"2019","thisQUARTER2":"2","thisQUARTER":"2019 - Qrt:2","minRate":"599","BuyQrt":"665","WorldPriceQrt":"1436","Date":"2019-04"},
+{"SellQrt":"603","MonthYear":"2019 May","thisYear":"2019","thisQUARTER2":"2","thisQUARTER":"2019 - Qrt:2","minRate":"599","BuyQrt":"665","WorldPriceQrt":"1436","Date":"2019-05"},
+{"SellQrt":"603","MonthYear":"2019 May","thisYear":"2019","thisQUARTER2":"2","thisQUARTER":"2019 - Qrt:2","minRate":"599","BuyQrt":"665","WorldPriceQrt":"1436","Date":"2019-06"},
+
+
+{"SellQrt":"668","MonthYear":"2019 September","thisYear":"2019","thisQUARTER2":"3","thisQUARTER":"2019 - Qrt:3","minRate":"638.5","BuyQrt":"713","WorldPriceQrt":"1555","Date":"2019-07"},
+{"SellQrt":"668","MonthYear":"2019 September","thisYear":"2019","thisQUARTER2":"3","thisQUARTER":"2019 - Qrt:3","minRate":"638.5","BuyQrt":"713","WorldPriceQrt":"1555","Date":"2019-08"},
+{"SellQrt":"668","MonthYear":"2019 September","thisYear":"2019","thisQUARTER2":"3","thisQUARTER":"2019 - Qrt:3","minRate":"638.5","BuyQrt":"713","WorldPriceQrt":"1555","Date":"2019-09"},
+
+{"SellQrt":"678","MonthYear":"2019 December","thisYear":"2019","thisQUARTER2":"4","thisQUARTER":"2019 - Qrt:4","minRate":"653","BuyQrt":"687","WorldPriceQrt":"1524","Date":"2019-10"},
+{"SellQrt":"678","MonthYear":"2019 December","thisYear":"2019","thisQUARTER2":"4","thisQUARTER":"2019 - Qrt:4","minRate":"653","BuyQrt":"687","WorldPriceQrt":"1524","Date":"2019-11"},
+{"SellQrt":"678","MonthYear":"2019 December","thisYear":"2019","thisQUARTER2":"4","thisQUARTER":"2019 - Qrt:4","minRate":"653","BuyQrt":"687","WorldPriceQrt":"1524","Date":"2019-12"},
+
+{"SellQrt":"680","MonthYear":"2020 March","thisYear":"2020","thisQUARTER2":"1","thisQUARTER":"2020 - Qrt:1","minRate":"669","BuyQrt":"736","WorldPriceQrt":"1689","Date":"2020-01"},
+{"SellQrt":"680","MonthYear":"2020 March","thisYear":"2020","thisQUARTER2":"1","thisQUARTER":"2020 - Qrt:1","minRate":"669","BuyQrt":"736","WorldPriceQrt":"1689","Date":"2020-02"},
+{"SellQrt":"680","MonthYear":"2020 March","thisYear":"2020","thisQUARTER2":"1","thisQUARTER":"2020 - Qrt:1","minRate":"669","BuyQrt":"736","WorldPriceQrt":"1689","Date":"2020-03"},
+
+{"SellQrt":"795","MonthYear":"2020 June","thisYear":"2020","thisQUARTER2":"2","thisQUARTER":"2020 - Qrt:2","minRate":"667","BuyQrt":"798","WorldPriceQrt":"1785","Date":"2020-04"},
+{"SellQrt":"795","MonthYear":"2020 June","thisYear":"2020","thisQUARTER2":"2","thisQUARTER":"2020 - Qrt:2","minRate":"667","BuyQrt":"798","WorldPriceQrt":"1785","Date":"2020-05"},
+{"SellQrt":"795","MonthYear":"2020 June","thisYear":"2020","thisQUARTER2":"2","thisQUARTER":"2020 - Qrt:2","minRate":"667","BuyQrt":"798","WorldPriceQrt":"1785","Date":"2020-06"},
+
+{"SellQrt":"824","MonthYear":"2020 September","thisYear":"2020","thisQUARTER2":"3","thisQUARTER":"2020 - Qrt:3","minRate":"792","BuyQrt":"925","WorldPriceQrt":"2067","Date":"2020-07"},
+{"SellQrt":"824","MonthYear":"2020 September","thisYear":"2020","thisQUARTER2":"3","thisQUARTER":"2020 - Qrt:3","minRate":"792","BuyQrt":"925","WorldPriceQrt":"2067","Date":"2020-08"},
+{"SellQrt":"824","MonthYear":"2020 September","thisYear":"2020","thisQUARTER2":"3","thisQUARTER":"2020 - Qrt:3","minRate":"792","BuyQrt":"925","WorldPriceQrt":"2067","Date":"2020-09"},
+
+{"SellQrt":"824","MonthYear":"2020 December","thisYear":"2020","thisQUARTER2":"4","thisQUARTER":"2020 - Qrt:4","minRate":"771","BuyQrt":"852","WorldPriceQrt":"1962","Date":"2020-10"},
+{"SellQrt":"824","MonthYear":"2020 December","thisYear":"2020","thisQUARTER2":"4","thisQUARTER":"2020 - Qrt:4","minRate":"771","BuyQrt":"852","WorldPriceQrt":"1962","Date":"2020-11"},
+{"SellQrt":"824","MonthYear":"2020 December","thisYear":"2020","thisQUARTER2":"4","thisQUARTER":"2020 - Qrt:4","minRate":"771","BuyQrt":"852","WorldPriceQrt":"1962","Date":"2020-12"},
+
+{"SellQrt":"762.5","MonthYear":"2021 March","thisYear":"2021","thisQUARTER2":"1","thisQUARTER":"2021 - Qrt:1","minRate":"741","BuyQrt":"848.5","WorldPriceQrt":"1958","Date":"2021-01"},
+{"SellQrt":"762.5","MonthYear":"2021 March","thisYear":"2021","thisQUARTER2":"1","thisQUARTER":"2021 - Qrt:1","minRate":"741","BuyQrt":"848.5","WorldPriceQrt":"1958","Date":"2021-02"},
+{"SellQrt":"762.5","MonthYear":"2021 March","thisYear":"2021","thisQUARTER2":"1","thisQUARTER":"2021 - Qrt:1","minRate":"741","BuyQrt":"848.5","WorldPriceQrt":"1958","Date":"2021-03"},
+
+{"SellQrt":"773","MonthYear":"2021 June","thisYear":"2021","thisQUARTER2":"2","thisQUARTER":"2021 - Qrt:2","minRate":"751","BuyQrt":"819","WorldPriceQrt":"1912","Date":"2021-04"},
+{"SellQrt":"773","MonthYear":"2021 June","thisYear":"2021","thisQUARTER2":"2","thisQUARTER":"2021 - Qrt:2","minRate":"751","BuyQrt":"819","WorldPriceQrt":"1912","Date":"2021-05"},
+{"SellQrt":"773","MonthYear":"2021 June","thisYear":"2021","thisQUARTER2":"2","thisQUARTER":"2021 - Qrt:2","minRate":"751","BuyQrt":"819","WorldPriceQrt":"1912","Date":"2021-06"},
+
+{"SellQrt":"769","MonthYear":"2021 September","thisYear":"2021","thisQUARTER2":"3","thisQUARTER":"2021 - Qrt:3","minRate":"757","BuyQrt":"798.5","WorldPriceQrt":"1833","Date":"2021-07"},
+{"SellQrt":"769","MonthYear":"2021 September","thisYear":"2021","thisQUARTER2":"3","thisQUARTER":"2021 - Qrt:3","minRate":"757","BuyQrt":"798.5","WorldPriceQrt":"1833","Date":"2021-08"},
+{"SellQrt":"769","MonthYear":"2021 September","thisYear":"2021","thisQUARTER2":"3","thisQUARTER":"2021 - Qrt:3","minRate":"757","BuyQrt":"798.5","WorldPriceQrt":"1833","Date":"2021-09"},
+
+{"SellQrt":"788","MonthYear":"2021 December","thisYear":"2021","thisQUARTER2":"4","thisQUARTER":"2021 - Qrt:4","minRate":"767","BuyQrt":"818","WorldPriceQrt":"1876","Date":"2021-10"},
+{"SellQrt":"788","MonthYear":"2021 December","thisYear":"2021","thisQUARTER2":"4","thisQUARTER":"2021 - Qrt:4","minRate":"767","BuyQrt":"818","WorldPriceQrt":"1876","Date":"2021-11"},
+{"SellQrt":"788","MonthYear":"2021 December","thisYear":"2021","thisQUARTER2":"4","thisQUARTER":"2021 - Qrt:4","minRate":"767","BuyQrt":"818","WorldPriceQrt":"1876","Date":"2021-12"},
+
+{"SellQrt":"797.5","MonthYear":"2022 January","thisYear":"2022","thisQUARTER2":"1","thisQUARTER":"2022 - Qrt:1","minRate":"1000","BuyQrt":"999","WorldPriceQrt":"2069","Date":"2022-01"},
+{"SellQrt":"797.5","MonthYear":"2022 January","thisYear":"2022","thisQUARTER2":"1","thisQUARTER":"2022 - Qrt:1","minRate":"1000","BuyQrt":"999","WorldPriceQrt":"2069","Date":"2022-02"},
+{"SellQrt":"797.5","MonthYear":"2022 January","thisYear":"2022","thisQUARTER2":"1","thisQUARTER":"2022 - Qrt:1","minRate":"1000","BuyQrt":"999","WorldPriceQrt":"2069","Date":"2022-03"},
+
+{"SellQrt":"972","MonthYear":"2022 April","thisYear":"2022","thisQUARTER2":"2","thisQUARTER":"2022 - Qrt:2","minRate":"1000","BuyQrt":"999","WorldPriceQrt":"1997","Date":"2022-04"},
+{"SellQrt":"972","MonthYear":"2022 April","thisYear":"2022","thisQUARTER2":"2","thisQUARTER":"2022 - Qrt:2","minRate":"1000","BuyQrt":"999","WorldPriceQrt":"1997","Date":"2022-05"},
+{"SellQrt":"972","MonthYear":"2022 April","thisYear":"2022","thisQUARTER2":"2","thisQUARTER":"2022 - Qrt:2","minRate":"1000","BuyQrt":"999","WorldPriceQrt":"1997","Date":"2022-06"},
+
+{"SellQrt":"985","MonthYear":"2022 July","thisYear":"2022","thisQUARTER2":"3","thisQUARTER":"2022 - Qrt:3","minRate":"1000","BuyQrt":"999","WorldPriceQrt":"1812","Date":"2022-07"},
+{"SellQrt":"985","MonthYear":"2022 July","thisYear":"2022","thisQUARTER2":"3","thisQUARTER":"2022 - Qrt:3","minRate":"1000","BuyQrt":"999","WorldPriceQrt":"1812","Date":"2022-08"},
+{"SellQrt":"985","MonthYear":"2022 July","thisYear":"2022","thisQUARTER2":"3","thisQUARTER":"2022 - Qrt:3","minRate":"1000","BuyQrt":"999","WorldPriceQrt":"1812","Date":"2022-09"},
+
+{"SellQrt":"1113.5","MonthYear":"2022 October","thisYear":"2022","thisQUARTER2":"4","thisQUARTER":"2022 - Qrt:4","minRate":"1066","BuyQrt":"1332","WorldPriceQrt":"1784","Date":"2022-10"}]
