@@ -17,7 +17,7 @@
 </head>
     <body>
     
-    <div class="page-wrapper"> 
+    <div class="page-wrapper">
     <div id="canvasWrapper">
     
     <canvas id="canvas" style="max-width:1500px;"></canvas>
@@ -25,7 +25,7 @@
     </div>
     </div>
     <div class="input-group">
-        <p>Filter From  : </p>
+        <p id="text">Filter From  : </p>
         <input type="month" class="form-control dates" id="startdate">
         <input type="month" class="form-control dates" id="enddate">
         <button id="reset" class="btn btn-danger">Reset Filter</button>
@@ -157,11 +157,12 @@ var ctx = document.getElementById('canvas').getContext('2d');
 
             label: 'World Price USD',
 
-			type: 'bar',
+			   type: 'bar',
 
             backgroundColor: 'rgb(163, 145, 97)',
-
-            borderColor: 'rgb(138, 123, 83)',
+            hoverBorderColor: 'rgb(107, 86, 29)',
+            hoverBorderWidth: 2,
+            borderColor: 'rgb(189, 156, 65)',
 
             data: WorldPriceQrt,
 
@@ -201,14 +202,22 @@ var ctx = document.getElementById('canvas').getContext('2d');
                         mode: 'x',
                         wheel: {
                         enabled: true
+                        
                     },
-
                 },
             },
             title: {
                 display: true,
-                text: "Gold Spot Chart"
+                text: "Gold Spot Chart",
+                font: {
+                     family: 'Comic Sans MS',
+                     size: 22,
+                     weight: 'bold',
+                     lineHeight: 1.2
+                  },
+                  padding: {top: 30, left: 0, right: 0, bottom: 0},
             },
+            
             
         },
         
@@ -217,12 +226,24 @@ var ctx = document.getElementById('canvas').getContext('2d');
             x: {
 
                 display: true,
+                
                 ticks: {
                     color: '#876445'
                 },
+                title: {
+                  display: true,
+                  text: 'Years - Months',
+                  color: 'rgb(163, 145, 97)',
+                  font: {
+                     family: 'Comic Sans MS',
+                     size: 20,
+                     weight: 'bold',
+                     lineHeight: 1.2,
+                  },
+                  padding: {top: 20, left: 0, right: 0, bottom: 0}
+               }
 
             },
-            
             
 			EGP: {
 
@@ -291,6 +312,18 @@ var ctx = document.getElementById('canvas').getContext('2d');
                     color: '#876445',
 
 				},
+            title: { 
+                  display: true,
+                  text: 'Local Price EGP',
+                  color: 'red',
+                  font: {
+                     family: 'Comic Sans MS',
+                     size: 22,
+                     weight: 'bold',
+                     lineHeight: 1.2
+                  },
+                  padding: {top: 30, left: 0, right: 0, bottom: 0}
+               },
 
 				grid: {
 
@@ -330,6 +363,18 @@ var ctx = document.getElementById('canvas').getContext('2d');
                     color: '#876445',
 
 				},
+            title: { 
+                  display: true,
+                  text: 'Wolrd Price USD',
+                  color: 'blue',
+                  font: {
+                     family: 'Comic Sans MS',
+                     size: 22,
+                     weight: 'bold',
+                     lineHeight: 1.2
+                  },
+                  padding: {top: 30, left: 0, right: 0, bottom: 0}
+               },
 
 				grid: {
 
@@ -345,7 +390,8 @@ var ctx = document.getElementById('canvas').getContext('2d');
 
       }
 
-   });        
+   }); 
+   
 
    function filterData() {
         const dates2 = [...Date];
