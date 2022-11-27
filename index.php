@@ -16,12 +16,11 @@
 
 </head>
     <body>
-    
-    <div class="page-wrapper">
+    <button id="all" class="btn btn-info">All Years</button>
+
     <div id="canvasWrapper">
     
-    <canvas id="canvas" style="max-width:1500px;"></canvas>
-
+    <canvas id="canvas" style="max-width:1900px;"></canvas>
     </div>
     </div>
     <div class="input-group">
@@ -106,8 +105,11 @@ $.getJSON("dataChartQrt.json", function(data) {
 
 
 
-
 var Dollar='$';
+const footer = (tooltipItems) => {
+  var sum = '© dahabmasr';
+  return  sum;
+};
 
 var ctx = document.getElementById('canvas').getContext('2d');
 
@@ -177,7 +179,7 @@ var ctx = document.getElementById('canvas').getContext('2d');
       },
 
       options: {
-        
+
 
             responsive: 'true',
 
@@ -217,6 +219,11 @@ var ctx = document.getElementById('canvas').getContext('2d');
                   },
                   padding: {top: 30, left: 0, right: 0, bottom: 0},
             },
+            tooltip:{
+               callbacks:{
+                  footer: footer,
+               },
+            },
             
             
         },
@@ -241,7 +248,8 @@ var ctx = document.getElementById('canvas').getContext('2d');
                      lineHeight: 1.2,
                   },
                   padding: {top: 20, left: 0, right: 0, bottom: 0}
-               }
+               },
+               min: 50,
 
             },
             
@@ -437,6 +445,12 @@ function reset(){
     chart.update();
 }
 $("#reset").click(reset);
+
+function all() {
+chart.config.options.scales.x. min = 0;
+chart.update();
+}
+$("#all").click(all);
 
 
 

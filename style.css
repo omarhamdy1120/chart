@@ -1,5 +1,5 @@
 body{
-  background:url(gold-of-egypt-logo-pattern-opacity-30.png) #FCF9ED no-repeat 41%;
+  background:url(gold-of-egypt-logo-pattern-opacity-30.png) #FCF9ED no-repeat 49.5%;
   color: rgb(56, 56, 56);
 }
 .input-group{
@@ -21,4 +21,8 @@ body{
 #reset{
   font-weight:bolder;
   padding: -1px 0px;
+}
+#all{
+  font-weight:bolder;
+  margin: 5px;
 }
